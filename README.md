@@ -1,5 +1,5 @@
 # Presentaciones de proyectos de 2º DAM y 2º DAW - 2019
-Horarios y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **IES Campanillas** (Málaga) del curso 2018 - 2019.
+Horarios y normas para las presentaciones de alumnos duales de **2º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **2º DAW** (Desarrollo de Aplicaciones Web) del **IES Campanillas** (Málaga) del curso 2018 - 2019.
 
 ## Índice
 
@@ -20,7 +20,7 @@ El cuadrante horario de las presentaciones se puede descargar en formato pdf en 
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-### Lunes 27
+### Lunes 17 de junio
 
 * [Sevilla Ruiz, Borja – Solbyte](https://github.com/bsevrui/Presentaci-n-Dual)
 * [Leiva Brenes, Fernando – Properly](https://github.com/FernandoLeivaBrenes/presentacion2019_05_27)
@@ -31,7 +31,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [García Molina, Jorge - Tecnilógica](https://github.com/jorgegarcia1996/PresentacionEmpresa)
 * [Aragón Rodríguez, Rafael - Tecnilógica](https://github.com/rafaelaragon/presentaciones-1-DAM)
 
-### Martes 28
+### Martes 18 de junio
 
 * [Pastushenko, Román - Future Connections](https://github.com/romanpastu/Presentacion-Dual-1oDaw)
 * [Pacheco Matas, Rubén - Future Connections](https://github.com/rubenpachecomatas/Presentacion-Dual)
@@ -42,7 +42,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Domínguez Barrientos, Rosa María - Viewnext](https://github.com/rosadominguez/PresentacionDUAL)
 * [Del Pino Heredia, Laura - Viewnext](https://github.com/lauradelpino24/Presentacion-Dual)
 
-### Miércoles 29
+### Miércoles 19 de junio
 
 * [Romero Medina, Francisco José - Freepik](https://github.com/fromero98/PresentacionDual)
 * [Campos Vega, Álvaro – Dekra](https://github.com/AlvaroCamposVega/Presentacion-FP-DUAL-2019)
