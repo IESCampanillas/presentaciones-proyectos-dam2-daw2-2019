@@ -15,14 +15,16 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Lunes 17 de junio
 
-* [Sevilla Ruiz, Borja – Solbyte](https://github.com/bsevrui/Presentaci-n-Dual)
-* [Leiva Brenes, Fernando – Properly](https://github.com/FernandoLeivaBrenes/presentacion2019_05_27)
-* [Herrera Fonseca, Antonio – Avanade]()
-* [Jiménez Quintana, José Daniel – Avanade](https://github.com/danieljimenezquintana/Presentacion-Empresa)
-* [Lerible García, Nicolás – Tecnilógica](https://github.com/nicolaslerible/presentacionempresa)
-* [Valverde Garcia, Samuel - Tecnilógica](https://github.com/samuelvalverde28/presentacion1DAW)
-* [García Molina, Jorge - Tecnilógica](https://github.com/jorgegarcia1996/PresentacionEmpresa)
-* [Aragón Rodríguez, Rafael - Tecnilógica](https://github.com/rafaelaragon/presentaciones-1-DAM)
+|      Hora     |  Curso |               Nombre              |  Empresa |
+|:-------------:|:------:|:---------------------------------:|:--------:|
+| 09:00 - 09:30 | 2º DAM | García Ruiz, Cintia               | Properly |
+| 09:30 - 10:00 | 2º DAW | Caballero Molina, Francisco Jesús | Freepik  |
+| 10:00 - 10:30 | 2º DAW | Sánchez, Adrián                   | BeSoccer |
+| 10:30 - 11:00 | 2º DAW | Campos Jurado, Rafael             | BCS      |
+| 11:30 - 12:00 | 2º DAW | Martín Castro, Jesús              | BCS      |
+| 12:00 - 12:30 | 2º DAW | Balsas Martín, David              | INDRA    |
+| 12:30 - 13:00 | 2º DAW | Bernal Rodríguez, Juan Francisco  | INDRA    |
+| 13:00 - 13:30 | 2º DAW | Puche Velasco, Alejandro          | INDRA    |
 
 ### Martes 18 de junio
 
