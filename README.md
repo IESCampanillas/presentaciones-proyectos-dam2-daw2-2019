@@ -42,16 +42,17 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Miércoles 19 de junio
 
-|      Hora     |  Curso |             Nombre             |      Empresa      |
-|:-------------:|:------:|:------------------------------:|:-----------------:|
-| 09:00 - 09:30 | 2º DAM | Fernández Nadales, Andrés      | DXC               |
-| 09:30 - 10:00 | 2º DAW | Murcia España, Sara            | Solbyte           |
-| 10:00 - 10:30 | 2º DAW | Blanco Salgado, Lucía          | Future Connection |
-| 10:30 - 11:00 | 2º DAM | Fernández García, José Antonio | Future Connection |
-| 11:30 - 12:00 | 2º DAW | Ruiz López, Alejandro          | Future Connection |
-| 12:00 - 12:30 | 2º DAW | Parejo Ramos, Beatriz          | Avanade           |
-| 12:30 - 13:00 | 2º DAW | Flores Padilla, Lucía          | Avanade           |
-| 13:00 - 13:30 | 2º DAW | Miranda Stavenuiter, Iván      | Avanade           |
+|      Hora     |  Curso |                 Nombre                 |      Empresa      |
+|:-------------:|:------:|:--------------------------------------:|:-----------------:|
+| 09:00 - 09:30 | 2º DAM | Fernández Nadales, Andrés              | DXC               |
+| 09:30 - 10:00 | 2º DAW | Murcia España, Sara                    | Solbyte           |
+| 10:00 - 10:30 | 2º DAW | Blanco Salgado, Lucía                  | Future Connection |
+| 10:30 - 11:00 | 2º DAM | Fernández García, José Antonio         | Future Connection |
+| 11:30 - 12:00 | 2º DAW | Ruiz López, Alejandro                  | Future Connection |
+| 12:00 - 12:30 | 2º DAW | Parejo Ramos, Beatriz                  | Avanade           |
+| 12:30 - 13:00 | 2º DAW | Flores Padilla, Lucía                  | Avanade           |
+| 13:00 - 13:30 | 2º DAW | Miranda Stavenuiter, Iván              | Avanade           |
+| 13:30 - 14:00 | 2º DAW | De la Maza Villalba, Ignacio Alejandro | Avanade           |
 
 ## Tiempo para la presentación
 
