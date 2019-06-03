@@ -15,30 +15,30 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Lunes 17 de junio
 
-|      Hora     |  Curso |               Nombre              |  Empresa |
-|:-------------:|:------:|:---------------------------------:|:--------:|
-| 09:00 - 09:30 | 2º DAM | García Ruiz, Cintia               | Properly |
-| 09:30 - 10:00 | 2º DAW | Caballero Molina, Francisco Jesús | Freepik  |
-| 10:00 - 10:30 | 2º DAW | Sánchez, Adrián                   | BeSoccer |
-| 10:30 - 11:00 | 2º DAW | Villalba Sánchez, Adrián          | ITRS     |
-| 11:30 - 12:00 | 2º DAW | Campos Jurado, Rafael             | BCS      |
-| 12:00 - 12:30 | 2º DAW | Martín Castro, Jesús              | BCS      |
-| 12:30 - 13:00 | 2º DAW | Balsas Martín, David              | INDRA    |
-| 13:00 - 13:30 | 2º DAW | Bernal Rodríguez, Juan Francisco  | INDRA    |
-| 13:30 - 14:00	| 2º DAW | Puche Velasco, Alejandro	         | INDRA    |
+|      Hora     |  Curso |               Nombre                   |  Empresa          |
+|:-------------:|:------:|:--------------------------------------:|:-----------------:|
+| 09:00 - 09:30 | 2º DAM | García Ruiz, Cintia                    | Properly          |
+| 09:30 - 10:00 | 2º DAW | Caballero Molina, Francisco Jesús      | Freepik           |
+| 10:00 - 10:30 | 2º DAW | Sánchez, Adrián                        | BeSoccer          |
+| 10:30 - 11:00 | 2º DAW | Villalba Sánchez, Adrián               | ITRS              |
+| 11:30 - 12:00 | 2º DAW | Campos Jurado, Rafael                  | BCS               |
+| 12:00 - 12:30 | 2º DAW | Martín Castro, Jesús                   | BCS               |
+| 12:30 - 13:00 | 2º DAW | Balsas Martín, David                   | INDRA             |
+| 13:00 - 13:30 | 2º DAW | Bernal Rodríguez, Juan Francisco       | INDRA             |
+| 13:30 - 14:00	| 2º DAW | Puche Velasco, Alejandro	              | INDRA             |
 
 ### Martes 18 de junio
 
-|      Hora     |  Curso |             Nombre             |     Empresa    |
-|:-------------:|:------:|:------------------------------:|:--------------:|
-| 09:00 - 09:30 | 2º DAM | Caralt Caralt, Alejandro       | ThisFunctional |
-| 09:30 - 10:00 | 2º DAM | Ruíz Mostazo, José Antonio     | Viewnext       |
-| 10:00 - 10:30 | 2º DAM | Villena Gil, Juan David        | Viewnext       |
-| 10:30 - 11:00 | 2º DAM | Vargas Galán, Jesús            | Viewnext       |
-| 11:30 - 12:00 | 2º DAM | Amo Olsson, Christian Raúl     | Viewnext       |
-| 12:00 - 12:30 | 2º DAW | Bueno Aguilar, Ángeles         | Viewnext       |
-| 12:30 - 13:00 | 2º DAW | Pinto Cebrián, Pablo Francisco | Viewnext       |
-| 13:00 - 13:30 | 2º DAW | Meléndez Bravo, Esther         | Viewnext       |
+|      Hora     |  Curso |             Nombre                     |     Empresa       |
+|:-------------:|:------:|:--------------------------------------:|:-----------------:|
+| 09:00 - 09:30 | 2º DAM | Caralt Caralt, Alejandro               | ThisFunctional    |
+| 09:30 - 10:00 | 2º DAM | Ruíz Mostazo, José Antonio             | Viewnext          |
+| 10:00 - 10:30 | 2º DAM | Villena Gil, Juan David                | Viewnext          |
+| 10:30 - 11:00 | 2º DAM | Vargas Galán, Jesús                    | Viewnext          |
+| 11:30 - 12:00 | 2º DAM | Amo Olsson, Christian Raúl             | Viewnext          |
+| 12:00 - 12:30 | 2º DAW | Bueno Aguilar, Ángeles                 | Viewnext          |
+| 12:30 - 13:00 | 2º DAW | Pinto Cebrián, Pablo Francisco         | Viewnext          |
+| 13:00 - 13:30 | 2º DAW | Meléndez Bravo, Esther                 | Viewnext          |
 
 ### Miércoles 19 de junio
 
@@ -56,16 +56,16 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Jueves 20 de junio
 
-| Hora          | Curso  | Nombre                                | Empresa     |
-|:-------------:|:------:|:-------------------------------------:|:-----------:|
-| 09:00 - 09:30 | 2º DAM | Espejo García, Ignacio                | Tecnilógica |
-| 09:30 - 10:00 | 2º DAM | García Fernández, Guillermo           | Solbyte     |
-| 10:00 - 10:30 | 2º DAW | Chamorro Silva, Adrián                | Fidelio Sw. |
-| 10:30 - 11:00 | 2º DAM | Matabuena Berdugo, Rocío              | CGI         |
-| 11:30 - 12:00 | 2º DAW | Burgos García, Denise                 | Accenture   |
-| 12:00 - 12:30 | 2º DAW | Moreno de Vega Haro, María del Carmen | Accenture   |
-| 12:30 - 13:00 | 2º DAW | Moreno Montiel, Raúl                  | Accenture   |
-| 13:00 - 13:30 | 2º DAW | Valenzuela Asensio, Esaú              | Accenture   |
+| Hora          | Curso  | Nombre                                 | Empresa           |
+|:-------------:|:------:|:--------------------------------------:|:-----------------:|
+| 09:00 - 09:30 | 2º DAM | Espejo García, Ignacio                 | Tecnilógica       |
+| 09:30 - 10:00 | 2º DAM | García Fernández, Guillermo            | Solbyte           |
+| 10:00 - 10:30 | 2º DAW | Chamorro Silva, Adrián                 | Fidelio Sw.       |
+| 10:30 - 11:00 | 2º DAM | Matabuena Berdugo, Rocío               | CGI               |
+| 11:30 - 12:00 | 2º DAW | Burgos García, Denise                  | Accenture         |
+| 12:00 - 12:30 | 2º DAW | Moreno de Vega Haro, María del Carmen  | Accenture         |
+| 12:30 - 13:00 | 2º DAW | Moreno Montiel, Raúl                   | Accenture         |
+| 13:00 - 13:30 | 2º DAW | Valenzuela Asensio, Esaú               | Accenture         |
 
 
 ## Tiempo para la presentación
