@@ -29,16 +29,16 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Martes 18 de junio
 
-|      Hora     |  Curso |             Nombre             |  Empresa |
-|:-------------:|:------:|:------------------------------:|:--------:|
-| 09:00 - 09:30 | 2º DAM | Ruíz Mostazo, José Antonio     | Viewnext |
-| 09:30 - 10:00 | 2º DAM | Caralt Caralt, Alejandro       | Viewnext |
-| 10:00 - 10:30 | 2º DAM | Villena Gil, Juan David        | Viewnext |
-| 10:30 - 11:00 | 2º DAM | Vargas Galán, Jesús            | Viewnext |
-| 11:30 - 12:00 | 2º DAM | Amo Olsson, Christian Raúl     | Viewnext |
-| 12:00 - 12:30 | 2º DAW | Bueno Aguilar, Ángeles         | Viewnext |
-| 12:30 - 13:00 | 2º DAW | Pinto Cebrián, Pablo Francisco | Viewnext |
-| 13:00 - 13:30 | 2º DAW | Meléndez Bravo, Esther         | Viewnext |
+|      Hora     |  Curso |             Nombre             |     Empresa    |
+|:-------------:|:------:|:------------------------------:|:--------------:|
+| 09:00 - 09:30 | 2º DAM | Caralt Caralt, Alejandro       | ThisFunctional |
+| 09:30 - 10:00 | 2º DAM | Ruíz Mostazo, José Antonio     | Viewnext       |
+| 10:00 - 10:30 | 2º DAM | Villena Gil, Juan David        | Viewnext       |
+| 10:30 - 11:00 | 2º DAM | Vargas Galán, Jesús            | Viewnext       |
+| 11:30 - 12:00 | 2º DAM | Amo Olsson, Christian Raúl     | Viewnext       |
+| 12:00 - 12:30 | 2º DAW | Bueno Aguilar, Ángeles         | Viewnext       |
+| 12:30 - 13:00 | 2º DAW | Pinto Cebrián, Pablo Francisco | Viewnext       |
+| 13:00 - 13:30 | 2º DAW | Meléndez Bravo, Esther         | Viewnext       |
 
 ### Miércoles 19 de junio
 
@@ -60,7 +60,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 |:-------------:|:------:|:-------------------------------------:|:-----------:|
 | 09:00 - 09:30 | 2º DAM | Espejo García, Ignacio                | Tecnilógica |
 | 09:30 - 10:00 | 2º DAM | García Fernández, Guillermo           | Solbyte     |
-| 10:00 - 10:30 | 2º DAW | Chamorro Silva, Adrián                | CGI         |
+| 10:00 - 10:30 | 2º DAW | Chamorro Silva, Adrián                | Fidelio Sw. |
 | 10:30 - 11:00 | 2º DAM | Matabuena Berdugo, Rocío              | CGI         |
 | 11:30 - 12:00 | 2º DAW | Burgos García, Denise                 | Accenture   |
 | 12:00 - 12:30 | 2º DAW | Moreno de Vega Haro, María del Carmen | Accenture   |
@@ -70,19 +70,16 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ## Tiempo para la presentación
 
-La presentación durará un mínimo de 15 minutos y un máximo de 20, dejando 5 minutos para un turno de preguntas.
-
-Los alumnos de una misma empresa deberán estar juntos a la hora que le toque al primero de esa empresa para poder hablar juntos de sobre la misma. Por ejemplo, todos los alumnos de Viewnext deberán estar presentes a las 10:00h ya que esa es la hora a la que está citado el primer alumno de Viewnext.
+La presentación durará un **mínimo de 15 minutos** y un **máximo de 20**, dejando 5 minutos para un turno de preguntas. Los alumnos deberán llegar al menos **10 minutos antes** de su presentación.
 
 ## Contenido de la presentación
 
 La presentación debe tener, como mínimo, el siguiente contenido:
 
-* Introducción a la empresa. Se debe hacer en común cuando en la misma empresa hay varios alumnos.
-* Tareas desempeñadas con temporalización por semanas.
-* Herramientas utilizadas.
-* Conocimientos adquiridos por cada módulo profesional.
-* Valoración de la experiencia dual por parte del alumno.
+* Introducción al proyecto.
+* Herramientas y tecnologías utilizadas.
+* Explicación del proceso de desarrollo.
+* Demostración de funcionamiento de la aplicación.
 
 ## Formato de la presentación
 
