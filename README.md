@@ -3,18 +3,11 @@ Horarios y normas para las presentaciones de alumnos duales de **2º DAM** (Desa
 
 ## Índice
 
-* [Cuadrante horario de las presentaciones](#cuadrante-horario-de-las-presentaciones)
 * [Índice a los repositorios con las presentaciones](#índice-a-los-repositorios-con-las-presentaciones)
 * [Tiempo para la presentación](#tiempo-para-la-presentación)
 * [Contenido de la presentación](#contenido-de-la-presentación)
 * [Formato de la presentación](#formato-de-la-presentación)
 * [Lugar de la presentación](#lugar-de-la-presentación)
-
-## Cuadrante horario de las presentaciones
-
-El cuadrante horario de las presentaciones se puede descargar en formato pdf en el siguiente enlace:
-
-* [calendario_exposiciones_duales_1dawdam_2019.pdf](calendario_exposiciones_duales_1dawdam_2019.pdf)
 
 ## Índice a los repositorios con las presentaciones
 
