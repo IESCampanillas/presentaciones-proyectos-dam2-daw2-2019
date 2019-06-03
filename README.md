@@ -54,6 +54,20 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 | 13:00 - 13:30 | 2º DAW | Miranda Stavenuiter, Iván              | Avanade           |
 | 13:30 - 14:00 | 2º DAW | De la Maza Villalba, Ignacio Alejandro | Avanade           |
 
+### Jueves 20 de junio
+
+| Hora          | Curso  | Nombre                                | Empresa     |
+|:-------------:|:------:|:-------------------------------------:|:-----------:|
+| 09:00 - 09:30 | 2º DAM | Espejo García, Ignacio                | Tecnilógica |
+| 09:30 - 10:00 | 2º DAM | García Fernández, Guillermo           | Solbyte     |
+| 10:00 - 10:30 | 2º DAW | Chamorro Silva, Adrián                | CGI         |
+| 10:30 - 11:00 | 2º DAM | Matabuena Berdugo, Rocío              | CGI         |
+| 11:30 - 12:00 | 2º DAW | Burgos García, Denise                 | Accenture   |
+| 12:00 - 12:30 | 2º DAW | Moreno de Vega Haro, María del Carmen | Accenture   |
+| 12:30 - 13:00 | 2º DAW | Moreno Montiel, Raúl                  | Accenture   |
+| 13:00 - 13:30 | 2º DAW | Valenzuela Asensio, Esaú              | Accenture   |
+
+
 ## Tiempo para la presentación
 
 La presentación durará un mínimo de 15 minutos y un máximo de 20, dejando 5 minutos para un turno de preguntas.
