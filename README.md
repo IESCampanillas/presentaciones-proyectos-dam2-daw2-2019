@@ -25,6 +25,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 | 12:00 - 12:30 | 2º DAW | Martín Castro, Jesús              | BCS      |
 | 12:30 - 13:00 | 2º DAW | Balsas Martín, David              | INDRA    |
 | 13:00 - 13:30 | 2º DAW | Bernal Rodríguez, Juan Francisco  | INDRA    |
+| 13:30 - 14:00	| 2º DAW | Puche Velasco, Alejandro	INDRA    |          |
 
 ### Martes 18 de junio
 
