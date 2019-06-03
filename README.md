@@ -28,14 +28,16 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### Martes 18 de junio
 
-* [Pastushenko, Román - Future Connections](https://github.com/romanpastu/Presentacion-Dual-1oDaw)
-* [Pacheco Matas, Rubén - Future Connections](https://github.com/rubenpachecomatas/Presentacion-Dual)
-* [Gómez Peña, Alberto – Viewnext](https://github.com/albertogomezp/presentacionDUAL)
-* [Pérez Molina, Iván - Viewnext](https://github.com/ivanperezmolina/presentaciondual)
-* [Perea Ropero, Mercedes – Viewnext](https://github.com/mmercedesperea/Presentacion_Dual)
-* [Haller Ríos, Lino - Viewnext](https://github.com/LinoHallerRios/DUAL)
-* [Domínguez Barrientos, Rosa María - Viewnext](https://github.com/rosadominguez/PresentacionDUAL)
-* [Del Pino Heredia, Laura - Viewnext](https://github.com/lauradelpino24/Presentacion-Dual)
+|      Hora     |  Curso |             Nombre             |  Empresa |
+|:-------------:|:------:|:------------------------------:|:--------:|
+| 09:00 - 09:30 | 2º DAM | Ruíz Mostazo, José Antonio     | Viewnext |
+| 09:30 - 10:00 | 2º DAM | Caralt Caralt, Alejandro       | Viewnext |
+| 10:00 - 10:30 | 2º DAM | Villena Gil, Juan David        | Viewnext |
+| 10:30 - 11:00 | 2º DAM | Vargas Galán, Jesús            | Viewnext |
+| 11:30 - 12:00 | 2º DAM | Amo Olsson, Christian Raúl     | Viewnext |
+| 12:00 - 12:30 | 2º DAW | Bueno Aguilar, Ángeles         | Viewnext |
+| 12:30 - 13:00 | 2º DAW | Pinto Cebrián, Pablo Francisco | Viewnext |
+| 13:00 - 13:30 | 2º DAW | Meléndez Bravo, Esther         | Viewnext |
 
 ### Miércoles 19 de junio
 
