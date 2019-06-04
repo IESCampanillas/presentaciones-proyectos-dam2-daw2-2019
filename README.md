@@ -76,6 +76,7 @@ PROVISIONAL
 | 09:00 - 09:30 | 2º DAM | Rebollo Benítez, Salvador              | REWE              |
 | 09:30 - 10:00 | 2º DAW | Chaparro Barese, Gonzalo Iván          | REWE              |
 | 10:00 - 10:30 | 2º DAW | Zambrana Ruiz, Germán                  | REWE              |
+| 10:30 - 11:00 | 2º DAM | Valenzuela Asensio, Esaú               | Accenture         |
 
 ## Tiempo para la presentación
 
