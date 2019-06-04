@@ -13,6 +13,8 @@ Horarios y normas para las presentaciones de alumnos duales de **2º DAM** (Desa
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
+PROVISIONAL
+
 ### Lunes 17 de junio
 
 |      Hora     |  Curso |               Nombre                   |  Empresa          |
@@ -67,6 +69,13 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 | 12:30 - 13:00 | 2º DAW | Moreno Montiel, Raúl                   | Accenture         |
 | 13:00 - 13:30 | 2º DAW | Valenzuela Asensio, Esaú               | Accenture         |
 
+### Viernes 21 de junio
+
+| Hora          | Curso  | Nombre                                 | Empresa           |
+|:-------------:|:------:|:--------------------------------------:|:-----------------:|
+| 09:00 - 09:30 | 2º DAM | Rebollo Benítez, Salvador              | REWE              |
+| 09:30 - 10:00 | 2º DAW | Chaparro Barese, Gonzalo Iván          | REWE              |
+| 10:00 - 10:30 | 2º DAW | Zambrana Ruiz, Germán                  | REWE              |
 
 ## Tiempo para la presentación
 
