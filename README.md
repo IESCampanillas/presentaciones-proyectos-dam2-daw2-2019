@@ -32,8 +32,8 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 |      Hora     |  Curso |             Nombre                     |     Empresa       |
 |:-------------:|:------:|:--------------------------------------:|:-----------------:|
 | 09:00 - 09:30 | 2º DAM | Caralt Caralt, Alejandro               | ThisFunctional    |
-| 09:30 - 10:00 | 2º DAM | Ruíz Mostazo, José Antonio             | Viewnext          |
-| 10:00 - 10:30 | 2º DAM | Villena Gil, Juan David                | Viewnext          |
+| 09:30 - 10:00 | 2º DAM | Villena Gil, Juan David                | Viewnext          |
+| 10:00 - 10:30 | 2º DAM | Ruíz Mostazo, José Antonio             | ThisFunctional    |
 | 10:30 - 11:00 | 2º DAM | Vargas Galán, Jesús                    | Viewnext          |
 | 11:30 - 12:00 | 2º DAM | Amo Olsson, Christian Raúl             | Viewnext          |
 | 12:00 - 12:30 | 2º DAW | Bueno Aguilar, Ángeles                 | Viewnext          |
@@ -44,7 +44,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 |      Hora     |  Curso |                 Nombre                 |      Empresa      |
 |:-------------:|:------:|:--------------------------------------:|:-----------------:|
-| 09:00 - 09:30 | 2º DAM | Fernández Nadales, Andrés              | DXC               |
+| 09:00 - 09:30 | 2º DAM | Fernández Nadales, Andrés              | REWE              |
 | 09:30 - 10:00 | 2º DAW | Murcia España, Sara                    | Solbyte           |
 | 10:00 - 10:30 | 2º DAW | Blanco Salgado, Lucía                  | Future Connection |
 | 10:30 - 11:00 | 2º DAM | Fernández García, José Antonio         | Future Connection |
