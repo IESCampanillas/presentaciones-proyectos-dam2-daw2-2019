@@ -19,15 +19,17 @@ PROVISIONAL
 
 |      Hora     |  Curso |               Nombre                   |  Empresa          |
 |:-------------:|:------:|:--------------------------------------:|:-----------------:|
-| 09:00 - 09:30 | 2º DAM | García Ruiz, Cintia                    | Properly          |
-| 09:30 - 10:00 | 2º DAW | Caballero Molina, Francisco Jesús      | Freepik           |
-| 10:00 - 10:30 | 2º DAW | Sánchez, Adrián                        | BeSoccer          |
-| 10:30 - 11:00 | 2º DAW | Villalba Sánchez, Adrián               | ITRS              |
-| 11:30 - 12:00 | 2º DAW | Campos Jurado, Rafael                  | BCS               |
-| 12:00 - 12:30 | 2º DAW | Martín Castro, Jesús                   | BCS               |
-| 12:30 - 13:00 | 2º DAW | Balsas Martín, David                   | INDRA             |
-| 13:00 - 13:30 | 2º DAW | Bernal Rodríguez, Juan Francisco       | INDRA             |
-| 13:30 - 14:00	| 2º DAW | Puche Velasco, Alejandro	              | INDRA             |
+| 09:00 - 09:20 | 2º DAM | García Ruiz, Cintia                    | Properly          |
+| 09:20 - 09:40 | 2º DAW | Caballero Molina, Francisco Jesús      | Freepik           |
+| 09:40 - 10:00 | 2º DAW | Sánchez, Adrián                        | BeSoccer          |
+| 10:00 - 10:20 | 2º DAW | Villalba Sánchez, Adrián               | ITRS              |
+| 10:20 - 10:40 | 2º DAW | Campos Jurado, Rafael                  | BCS               |
+| 10:40 - 11:00 | 2º DAW | Martín Castro, Jesús                   | BCS               |
+| 11:30 - 11:50 | 2º DAW | Balsas Martín, David                   | INDRA             |
+| 11:50 - 12:10 | 2º DAW | Bernal Rodríguez, Juan Francisco       | INDRA             |
+| 12:10 - 12:30	| 2º DAW | Puche Velasco, Alejandro	              | INDRA             |
+| 12:10 - 12:30	|        | 	                                      |                   |
+| 12:30 - 12:50	|        | 	                                      |                   |
 
 ### Martes 18 de junio
 
