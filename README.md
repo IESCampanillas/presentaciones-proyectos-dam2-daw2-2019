@@ -28,8 +28,8 @@ PROVISIONAL
 | 11:30 - 11:50 | 2º DAW | Balsas Martín, David                   | INDRA             |
 | 11:50 - 12:10 | 2º DAW | Bernal Rodríguez, Juan Francisco       | INDRA             |
 | 12:10 - 12:30	| 2º DAW | Puche Velasco, Alejandro	              | INDRA             |
-| 12:10 - 12:30	|        | 	                                      |                   |
 | 12:30 - 12:50	|        | 	                                      |                   |
+| 12:50 - 13:10	|        | 	                                      |                   |
 
 ### Martes 18 de junio
 
