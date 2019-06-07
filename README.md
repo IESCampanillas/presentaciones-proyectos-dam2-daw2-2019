@@ -13,6 +13,8 @@ Horarios y normas para las presentaciones de alumnos duales de **2º DAM** (Desa
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
+* [ChristianRaúl Amo Olsson](https://github.com/christianraulamo/Proyecto_Final).
+
 PROVISIONAL
 
 ### Lunes 17 de junio
