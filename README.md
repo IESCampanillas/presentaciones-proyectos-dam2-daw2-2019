@@ -13,7 +13,7 @@ Horarios y normas para las presentaciones de alumnos duales de **2º DAM** (Desa
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-* [ChristianRaúl Amo Olsson -PAPEO](https://github.com/christianraulamo/Proyecto_Final).
+* [Christian Raúl Amo Olsson -PAPEO](https://github.com/christianraulamo/Proyecto_Final).
 
 PROVISIONAL
 
