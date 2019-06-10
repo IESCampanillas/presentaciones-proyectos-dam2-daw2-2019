@@ -34,8 +34,8 @@ PROVISIONAL
 | 11:30 - 11:50 	| 2º DAW 	| Bernal Rodríguez, Juan Francisco  	| INDRA             	|
 | 11:50 - 12:10 	| 2º DAW 	| Puche Velasco, Alejandro          	| INDRA             	|
 | 12:10 - 12:30 	| 2º DAW 	| Blanco Salgado, Lucía             	| Future Connection 	|
-| 12:30 - 12:50 	| 2º DAW 	| Fernández García, José Antonio    	| Future Connection 	|
-| 12:50 - 13:10 	| 2º DAM 	| Ruiz López, Alejandro             	| Future Connection 	|
+| 12:30 - 12:50 	| 2º DAM 	| Fernández García, José Antonio    	| Future Connection 	|
+| 12:50 - 13:10 	| 2º DAW 	| Ruiz López, Alejandro             	| Future Connection 	|
 
 ### Martes 18 de junio
 
