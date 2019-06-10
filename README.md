@@ -13,8 +13,11 @@ Horarios y normas para las presentaciones de alumnos duales de **2º DAM** (Desa
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-* [Christian Raúl Amo Olsson - PAPEO](https://github.com/christianraulamo/Proyecto_Final).
-* [Salvador Rebollo Benítez - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
+### 1º DAM
+* [Amo Olsson, Christian Raúl - PAPEO](https://github.com/christianraulamo/Proyecto_Final).
+* [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
+
+### 1º DAW
 
 PROVISIONAL
 
