@@ -35,7 +35,7 @@ PROVISIONAL
 | 11:50 - 12:10 	| 2º DAW 	| Ruiz López, Alejandro             	| Future Connection 	|
 | 12:10 - 12:30 	| 2º DAW 	| Blanco Salgado, Lucía             	| Future Connection 	|
 | 12:30 - 12:50 	| 2º DAM 	| Fernández García, José Antonio    	| Future Connection 	|
-| 12:50 - 13:10 	| 2º DAW 	| García Ruiz, Cintia               	| Properly          	|
+| 12:50 - 13:10 	| 2º DAM 	| García Ruiz, Cintia               	| Properly          	|
 
 
 ### Martes 18 de junio
