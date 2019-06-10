@@ -32,9 +32,9 @@ PROVISIONAL
 | 10:20 - 10:40 	| 2º DAW 	| Balsas Martín, David              	| INDRA             	|
 | 10:40 - 11:00 	| 2º DAW 	| Bernal Rodríguez, Juan Francisco  	| INDRA             	|
 | 11:30 - 11:50 	| 2º DAW 	| Puche Velasco, Alejandro          	| INDRA             	|
-| 11:50 - 12:10 	| 2º DAW 	| Ruiz López, Alejandro             	| Future Connection 	|
-| 12:10 - 12:30 	| 2º DAW 	| Blanco Salgado, Lucía             	| Future Connection 	|
-| 12:30 - 12:50 	| 2º DAM 	| Fernández García, José Antonio    	| Future Connection 	|
+| 11:50 - 12:10 	| 2º DAW 	| Ruiz López, Alejandro             	| Future Connections 	|
+| 12:10 - 12:30 	| 2º DAW 	| Blanco Salgado, Lucía             	| Future Connections 	|
+| 12:30 - 12:50 	| 2º DAM 	| Fernández García, José Antonio    	| Future Connections 	|
 | 12:50 - 13:10 	| 2º DAM 	| García Ruiz, Cintia               	| Properly          	|
 
 
