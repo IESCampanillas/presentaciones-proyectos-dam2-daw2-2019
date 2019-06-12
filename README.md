@@ -20,6 +20,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### 1º DAW
 * [Murcia España, Sara - Bright Side](https://github.com/SaraMurcia/Bright-Side)
+* [Sánchez Ramírez, Adrián - Lista de Anime](https://github.com/adriansanchezramirez/Final-Project)
 
 PROVISIONAL
 
