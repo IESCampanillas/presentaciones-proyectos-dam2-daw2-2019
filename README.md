@@ -18,7 +18,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
 
 ### 1º DAW
-* [Murcia España, Sara - Bright Side](https://github.com/SaraMurcia/Bright-Side).
+* [Murcia España, Sara - Bright Side](https://github.com/SaraMurcia/Bright-Side)
 
 PROVISIONAL
 
