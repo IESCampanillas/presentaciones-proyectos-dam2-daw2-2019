@@ -16,6 +16,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ### 1º DAM
 * [Amo Olsson, Christian Raúl - PAPEO](https://github.com/christianraulamo/Proyecto_Final).
 * [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
+* [Ruiz Mostazo, José Antonio - Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final).
 
 ### 1º DAW
 * [Murcia España, Sara - Bright Side](https://github.com/SaraMurcia/Bright-Side)
