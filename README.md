@@ -19,6 +19,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Ruiz Mostazo, José Antonio - Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final).
 
 ### 2º DAW
+* [Chamorro Silva, Adrián - Gamecenter 2.0] (https://github.com/AdrianChSilva/GameCenter-2)
 * [Flores Padilla, Lucía - Bull & Dear](https://github.com/luciaflores25/PROYECTOFINAL-BULLDEAR)
 * [Murcia España, Sara - Bright Side](https://github.com/SaraMurcia/Bright-Side)
 * [Sánchez Ramírez, Adrián - Lista de Anime](https://github.com/adriansanchezramirez/Final-Project)
@@ -56,7 +57,7 @@ PROVISIONAL
 | 11:50 - 12:10 	| 2º DAW 	| Pinto Cebrián, Pablo Francisco 	| Viewnext 	|
 | 12:10 - 12:30 	| 2º DAW 	| Meléndez Bravo, Esther         	| Viewnext 	|
 | 12:30 - 12:50 	| 2º DAM 	| Matabuena Berdugo, Rocío       	| CGI      	|
-| 12:50 - 13:10 	| 2º DAW 	| Chamorro Silva, Adrián         	| CGI      	|
+| 12:50 - 13:10 	| 2º DAW 	| Chamorro Silva, Adrián         	| Fidelo    |
 
 ### Miércoles 19 de junio
 
