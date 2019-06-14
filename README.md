@@ -17,6 +17,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Amo Olsson, Christian Raúl - PAPEO](https://github.com/christianraulamo/Proyecto_Final).
 * [Fernández Nadales, Andrés - Tourism Cities](https://github.com/andresfernandeznad/TourismCitiesAndroid).
 * [García Ruiz, Cintia - Mi Cuisine](https://github.com/cyntigr/Mi-Cuisine).
+* [Matabuena Berdugo, Rocío - Collecard](https://github.com/rociomatabuenaberdugo/CollecardApps).
 * [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
 * [Ruiz Mostazo, José Antonio - Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final).
 
