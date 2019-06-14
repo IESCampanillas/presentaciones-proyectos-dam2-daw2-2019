@@ -20,7 +20,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Ruiz Mostazo, José Antonio - Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final).
 
 ### 2º DAW
-* [Blanco Salgado, Lucía](https://github.com/lucia-blanco) - [Presentación](https://github.com/lucia-blanco/final-project-presentation) | [Reddie](https://github.com/lucia-blanco/reddie)
+* [Blanco Salgado, Lucía](https://github.com/lucia-blanco) - [Presentación](https://github.com/lucia-blanco/final-project-presentation)
 * [Bueno Aguilar, Ángeles ](https://github.com/angelesbueno/La-Libroteca)
 * [Caballero Molina, Francisco Jesús ](https://github.com/fjcmolina/Proyecto-PHP)
 * [Chamorro Silva, Adrián - Gamecenter 2.0](https://github.com/AdrianChSilva/GameCenter-2)
