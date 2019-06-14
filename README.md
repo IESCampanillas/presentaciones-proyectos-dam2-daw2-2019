@@ -15,6 +15,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### 2º DAM
 * [Amo Olsson, Christian Raúl - PAPEO](https://github.com/christianraulamo/Proyecto_Final).
+* [Fernández Nadales, Andrés - Tourism Cities](https://github.com/andresfernandeznad/TourismCitiesAndroid).
 * [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
 * [Ruiz Mostazo, José Antonio - Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final).
 
