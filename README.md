@@ -20,6 +20,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Matabuena Berdugo, Rocío - Collecard](https://github.com/rociomatabuenaberdugo/CollecardApps).
 * [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
 * [Ruiz Mostazo, José Antonio - Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final).
+* [Vargas Galán, Jesús - Gbook](https://github.com/jesusvargasgalan/Gbook-IOS).
 
 ### 2º DAW
 * [Blanco Salgado, Lucía](https://github.com/lucia-blanco) - [Presentación](https://github.com/lucia-blanco/final-project-presentation)
