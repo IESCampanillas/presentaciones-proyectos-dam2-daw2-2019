@@ -16,9 +16,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ### 2º DAM
 * [Amo Olsson, Christian Raúl - PAPEO](https://github.com/christianraulamo/Proyecto_Final).
 * [Fernández Nadales, Andrés - Tourism Cities](https://github.com/andresfernandeznad/TourismCitiesAndroid).
+* [García Ruiz, Cintia - Mi Cuisine](https://github.com/cyntigr/Mi-Cuisine).
 * [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
 * [Ruiz Mostazo, José Antonio - Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final).
-* [García Ruiz, Cintia - Mi Cuisine](https://github.com/cyntigr/Mi-Cuisine).
 
 ### 2º DAW
 * [Blanco Salgado, Lucía](https://github.com/lucia-blanco) - [Presentación](https://github.com/lucia-blanco/final-project-presentation)
