@@ -35,7 +35,7 @@ PROVISIONAL
 | Hora          	| Curso  	| Nombre                            	| Empresa           	|
 |---------------	|--------	|-----------------------------------	|-------------------	|
 | 09:00 - 09:20 	| 2º DAW 	| Caballero Molina, Francisco Jesús 	| Freepik           	|
-| 09:20 - 09:40 	| 2º DAW 	| Villalba Sánchez, Adrián          	| ITRS              	|
+| 09:20 - 09:40 	| 2º DAW 	| Villalba Sánchez, Adrián          	| OP5 ITRS Group      |
 | 09:40 - 10:00 	| 2º DAW 	| Campos Jurado, Rafael             	| BCS               	|
 | 10:00 - 10:20 	| 2º DAW 	| Martín Castro, Jesús              	| BCS               	|
 | 10:20 - 10:40 	| 2º DAW 	| Balsas Martín, David              	| INDRA             	|
@@ -61,7 +61,7 @@ PROVISIONAL
 | 11:50 - 12:10 	| 2º DAW 	| Pinto Cebrián, Pablo Francisco 	| Viewnext 	|
 | 12:10 - 12:30 	| 2º DAW 	| Meléndez Bravo, Esther         	| Viewnext 	|
 | 12:30 - 12:50 	| 2º DAM 	| Matabuena Berdugo, Rocío       	| CGI      	|
-| 12:50 - 13:10 	| 2º DAW 	| Chamorro Silva, Adrián         	| Fidelo    |
+| 12:50 - 13:10 	| 2º DAW 	| Chamorro Silva, Adrián         	| Fidelo Sw |
 
 ### Miércoles 19 de junio
 
@@ -69,10 +69,10 @@ PROVISIONAL
 | Hora              | Curso      | Nombre                                     | Empresa         |
 |---------------    |--------    |----------------------------------------    |-------------    |
 | 09:00 - 09:20     | 2º DAM     | Espejo García, Ignacio                     | Tecnilógica     |
-| 09:20 - 09:40     | 2º DAM     | Rebollo Benítez, Salvador                  | REWE            |
-| 09:40 - 10:00     | 2º DAM     | Fernández Nadales, Andrés                  | REWE            |
-| 10:00 - 10:20     | 2º DAW     | Chaparro Barese, Gonzalo Iván              | REWE            |
-| 10:20 - 10:40     | 2º DAW     | Zambrana Ruíz, German                      | REWE            |
+| 09:20 - 09:40     | 2º DAM     | Rebollo Benítez, Salvador                  | REWE Systems    |
+| 09:40 - 10:00     | 2º DAM     | Fernández Nadales, Andrés                  | REWE Systems    |
+| 10:00 - 10:20     | 2º DAW     | Chaparro Barese, Gonzalo Iván              | REWE Systems    |
+| 10:20 - 10:40     | 2º DAW     | Zambrana Ruíz, German                      | REWE Systems    |
 | 10:40 - 11:00     | 2º DAW     | Sánchez, Adrián                            | BeSoccer        |
 | 11:30 - 11:50     | 2º DAW     | Parejo Ramos, Beatriz                      | Avanade         |
 | 11:50 - 12:10     | 2º DAW     | Flores Padilla, Lucía                      | Avanade         |
@@ -90,7 +90,7 @@ PROVISIONAL
 | 10:00 - 10:20 	| 2º DAW 	| Valenzuela Asensio, Esaú              	| Accenture 	|
 | 10:20 - 10:40 	| 2º DAW 	| Murcia España, Sara                   	| Solbyte   	|
 | 10:40 - 11:00 	| 2º DAM 	| García Fernández, Guillermo           	| Solbyte   	|
-| 11:30 - 11:50 	| --     	| --                                    	| --        	|
+| 11:30 - 11:50 	| 2º DAW 	| Reina Benítez, Fco. Reina              	| Viewnext   	|
 | 11:50 - 12:10 	| --     	| --                                    	| --        	|
 | 12:10 - 12:30 	| --     	| --                                    	| --        	|
 | 12:30 - 12:50 	| --     	| --                                    	| --        	|
