@@ -29,6 +29,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Caballero Molina, Francisco Jesús ](https://github.com/fjcmolina/Proyecto-PHP)
 * [Chamorro Silva, Adrián - Gamecenter 2.0](https://github.com/AdrianChSilva/GameCenter-2)
 * [Campos Jurado, Rafael - Foodnation](https://github.com/rafacampjurado/proyectoFinal) / [presentación](https://github.com/rafacampjurado/presentacion-proyecto-final-2k19)
+* [De La Maza Villalba, Alejandro - BookCloud](https://github.com/alejndr/BookCloud-Angular)
 * [Flores Padilla, Lucía - Bull & Dear](https://github.com/luciaflores25/PROYECTOFINAL-BULLDEAR)
 * [Martín Castro, Jesús](https://github.com/Jesusmc82/MisMatronasPHP)
 * [Meléndez Bravo, Esther - All Games](https://github.com/esthermelendez/PROYECTO_FINAL_ALLGAMES)
