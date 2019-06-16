@@ -15,6 +15,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### 2º DAM
 * [Amo Olsson, Christian Raúl - PAPEO](https://github.com/christianraulamo/Proyecto_Final).
+* [Espejo García, Ignacio - OFFSIDE](https://github.com/NachoEspejo/OFFSIDE-PF)
 * [Fernández García, Jose Antonio](https://github.com/joseanfernandez) - [Jarpa](https://github.com/joseanfernandez/Jarpa)
 * [Fernández Nadales, Andrés - Tourism Cities](https://github.com/andresfernandeznad/TourismCitiesAndroid).
 * [García Ruiz, Cintia - Mi Cuisine](https://github.com/cyntigr/Mi-Cuisine).
