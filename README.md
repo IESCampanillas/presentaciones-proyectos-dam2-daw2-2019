@@ -81,24 +81,24 @@ PROVISIONAL
 | 11:50 - 12:10 	| 2º DAW 	| Pinto Cebrián, Pablo Francisco 	| Viewnext 	                     |
 | 12:10 - 12:30 	| 2º DAW 	| Meléndez Bravo, Esther         	| Viewnext 	                     |
 | 12:30 - 12:50 	| 2º DAM 	| Matabuena Berdugo, Rocío       	| CGI      	                     |
-| 12:50 - 13:10 	| 2º DAW 	| Chamorro Silva, Adrián         	| Fidelo Software (DEU)          |
+| 12:50 - 13:10 	| ----- 	|---------------------------------| --                             |
 
 ### Miércoles 19 de junio
 
 
-| Hora              | Curso      | Nombre                                     | Empresa           |
-|---------------    |--------    |----------------------------------------    |-------------------|
-| 09:00 - 09:20     | 2º DAM     | Espejo García, Ignacio                     | Tecnilógica       |
-| 09:20 - 09:40     | 2º DAM     | Rebollo Benítez, Salvador                  | REWE Systems (DEU)|
-| 09:40 - 10:00     | 2º DAM     | Fernández Nadales, Andrés                  | REWE Systems (DEU)|
-| 10:00 - 10:20     | 2º DAW     | Chaparro Barese, Gonzalo Iván              | REWE Systems (DEU)|
-| 10:20 - 10:40     | 2º DAW     | Zambrana Ruíz, German                      | REWE Systems (DEU)|
-| 10:40 - 11:00     | 2º DAW     | Sánchez, Adrián                            | Rocketfy          |
-| 11:30 - 11:50     | 2º DAW     | Parejo Ramos, Beatriz                      | Avanade           |
-| 11:50 - 12:10     | 2º DAW     | Flores Padilla, Lucía                      | Avanade           |
-| 12:10 - 12:30     | 2º DAW     | Miranda Stavenuiter, Iván                  | Avanade           |
-| 12:30 - 12:50     | 2º DAW     | De la Maza Villalba, Ignacio Alejandro     | Avanade           |
-| 12:50 - 13:10     | --         | --                                         | --                |
+| Hora              | Curso      | Nombre                                     | Empresa               |
+|---------------    |--------    |----------------------------------------    |-----------------------|
+| 09:00 - 09:20     | 2º DAM     | Espejo García, Ignacio                     | Tecnilógica           |
+| 09:20 - 09:40     | 2º DAM     | Rebollo Benítez, Salvador                  | REWE Systems (DEU)    |
+| 09:40 - 10:00     | 2º DAM     | Fernández Nadales, Andrés                  | REWE Systems (DEU)    |
+| 10:00 - 10:20     | 2º DAW     | Chaparro Barese, Gonzalo Iván              | REWE Systems (DEU)    |
+| 10:20 - 10:40     | 2º DAW     | Zambrana Ruíz, German                      | REWE Systems (DEU)    |
+| 10:40 - 11:00     | 2º DAW     | Sánchez, Adrián                            | Rocketfy              |
+| 11:30 - 11:50     | 2º DAW     | Parejo Ramos, Beatriz                      | Avanade               |
+| 11:50 - 12:10     | 2º DAW     | Flores Padilla, Lucía                      | Avanade               |
+| 12:10 - 12:30     | 2º DAW     | Miranda Stavenuiter, Iván                  | Avanade               |
+| 12:30 - 12:50     | 2º DAW     | De la Maza Villalba, Ignacio Alejandro     | Avanade               |
+| 12:50 - 13:10     | 2º DAW     | Chamorro Silva, Adrián                     | Fidelo Software (DEU) |
 
 ### Jueves 20 de junio
 
