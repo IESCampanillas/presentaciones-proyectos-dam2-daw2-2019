@@ -27,6 +27,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Simón Ramos, Pablo - Best Backgrounds](https://github.com/Pasira/BestBackgrounds)
 
 ### 2º DAW
+* [Balsas Martín, David](https://github.com/davidbalsasmartin/proyecto_final)
 * [Blanco Salgado, Lucía](https://github.com/lucia-blanco) - [Presentación](https://github.com/lucia-blanco/final-project-presentation)
 * [Bernal Rodríguez, Juan Francisco](https://github.com/jfbernal92/buymesth) - [FRONT](https://buymesth.herokuapp.com/) - [BACK](https://buymesth-back.herokuapp.com/swagger-ui.html)
 * [Bueno Aguilar, Ángeles ](https://github.com/angelesbueno/La-Libroteca)
