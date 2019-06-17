@@ -73,14 +73,14 @@ PROVISIONAL
 |---------------	|--------	|--------------------------------	|--------------------------------|
 | 09:00 - 09:20 	| 2º DAM 	| Simón Ramos, Pablo             	| Sipadan  	                     |
 | 09:20 - 09:40 	| 2º DAM 	| Ruíz Mostazo, José Antonio     	| Viewnext 	                     |
-| 09:40 - 10:00 	| 2º DAM 	| Caralt Caralt, Alejandro       	| Viewnext / ThisFunctional(PRT) |
+| 09:40 - 10:00 	| 2º DAM 	| Matabuena Berdugo, Rocío      	| CGI                            |
 | 10:00 - 10:20 	| 2º DAM 	| Villena Gil, Juan David        	| Viewnext / ThisFunctional(PRT) |
 | 10:20 - 10:40 	| 2º DAM 	| Vargas Galán, Jesús            	| Viewnext 	                     |
 | 10:40 - 11:00 	| 2º DAM 	| Amo Olsson, Christian Raúl     	| Viewnext 	                     |
 | 11:30 - 11:50 	| 2º DAW 	| Bueno Aguilar, Ángeles         	| Viewnext 	                     |
 | 11:50 - 12:10 	| 2º DAW 	| Pinto Cebrián, Pablo Francisco 	| Viewnext 	                     |
 | 12:10 - 12:30 	| 2º DAW 	| Meléndez Bravo, Esther         	| Viewnext 	                     |
-| 12:30 - 12:50 	| 2º DAM 	| Matabuena Berdugo, Rocío       	| CGI      	                     |
+| 12:30 - 12:50 	| ----- 	|---------------------------------| --      	                     |
 | 12:50 - 13:10 	| ----- 	|---------------------------------| --                             |
 
 ### Miércoles 19 de junio
@@ -102,19 +102,19 @@ PROVISIONAL
 
 ### Jueves 20 de junio
 
-| Hora          	| Curso  	| Nombre                                	| Empresa   	|
-|---------------	|--------	|---------------------------------------	|-----------	|
-| 09:00 - 09:20 	| 2º DAW 	| Burgos García, Denise                 	| Accenture 	|
-| 09:20 - 09:40 	| 2º DAW 	| Moreno de Vega Haro, María del Carmen 	| Accenture 	|
-| 09:40 - 10:00 	| 2º DAW 	| Moreno Montiel, Raúl                  	| Accenture 	|
-| 10:00 - 10:20 	| 2º DAW 	| Valenzuela Asensio, Esaú              	| Accenture 	|
-| 10:20 - 10:40 	| 2º DAW 	| Murcia España, Sara                   	| Solbyte   	|
-| 10:40 - 11:00 	| 2º DAM 	| García Fernández, Guillermo           	| Solbyte   	|
-| 11:30 - 11:50 	| 2º DAW 	| Reina Benítez, Fco. Reina              	| Viewnext  	|
-| 11:50 - 12:10 	| --     	| --                                    	| --        	|
-| 12:10 - 12:30 	| --     	| --                                    	| --        	|
-| 12:30 - 12:50 	| --     	| --                                    	| --        	|
-| 12:50 - 13:10 	| --     	| --                                    	| --        	|
+| Hora          	| Curso  	| Nombre                                	| Empresa   	                   |
+|---------------	|--------	|---------------------------------------	|------------------------------- |
+| 09:00 - 09:20 	| 2º DAW 	| Burgos García, Denise                 	| Accenture 	                   |
+| 09:20 - 09:40 	| 2º DAW 	| Moreno de Vega Haro, María del Carmen 	| Accenture 	                   |
+| 09:40 - 10:00 	| 2º DAW 	| Moreno Montiel, Raúl                  	| Accenture 	                   |
+| 10:00 - 10:20 	| 2º DAW 	| Valenzuela Asensio, Esaú              	| Accenture 	                   |
+| 10:20 - 10:40 	| 2º DAW 	| Murcia España, Sara                   	| Solbyte   	                   |
+| 10:40 - 11:00 	| 2º DAM 	| García Fernández, Guillermo           	| Solbyte   	                   |
+| 11:30 - 11:50 	| 2º DAW 	| Reina Benítez, Fco. Reina              	| Viewnext  	                   |
+| 11:50 - 12:10 	| 2º DAM 	| Caralt Caralt, Alejandro               	| Viewnext / ThisFunctional(PRT) |
+| 12:10 - 12:30 	| --     	| --                                    	| --        	                   |
+| 12:30 - 12:50 	| --     	| --                                    	| --        	                   |
+| 12:50 - 13:10 	| --     	| --                                    	| --        	                   |
 
 
 ## Tiempo para la presentación
