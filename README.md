@@ -23,6 +23,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
 * [Ruiz Mostazo, José Antonio - Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final).
 * [Vargas Galán, Jesús - Gbook](https://github.com/jesusvargasgalan/Gbook-IOS).
+* [Villena Gil, Juan David - Bocallena](https://github.com/juandavidvillena/Proyecto).
 * [Simón Ramos, Pablo - Best Backgrounds](https://github.com/Pasira/BestBackgrounds)
 
 ### 2º DAW
