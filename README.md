@@ -33,7 +33,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Bueno Aguilar, Ángeles ](https://github.com/angelesbueno/La-Libroteca)
 * [Burgos García, Denise](https://github.com/Denise98)-[Portgas D. Denise Fanarts](https://github.com/Denise98/portgas-d-denise-fanarts)
 * [Caballero Molina, Francisco Jesús ](https://github.com/fjcmolina/Proyecto-PHP)
-* [Chamorro Silva, Adrián - Gamecenter 2.0](https://github.com/AdrianChSilva/GameCenter-2)
+* [Chamorro Silva, Adrián - Gamecenter 2.0](https://github.com/AdrianChSilva/GameCenter-2) / [Presentación](https://docs.google.com/presentation/d/1Cq9IRW3S_RCCwq06Cd5HrHlIP862n9oAp7FAYWnpkwg/edit?usp=sharing)
 * [Chaparro Barese, Gonzalo Iván - iPet](https://github.com/gonzaloivan121/iPet-php)
 * [Campos Jurado, Rafael - Foodnation](https://github.com/rafacampjurado/proyectoFinal) / [presentación](https://github.com/rafacampjurado/presentacion-proyecto-final-2k19)
 * [De La Maza Villalba, Alejandro - BookCloud](https://github.com/alejndr/BookCloud-Angular)
