@@ -73,7 +73,7 @@ PROVISIONAL
 |---------------	|--------	|--------------------------------	|--------------------------------|
 | 09:00 - 09:20 	| 2º DAM 	| Simón Ramos, Pablo             	| Sipadan  	                     |
 | 09:20 - 09:40 	| 2º DAM 	| Ruíz Mostazo, José Antonio     	| Viewnext 	                     |
-| 09:40 - 10:00 	| 2º DAM 	| Matabuena Berdugo, Rocío      	| CGI                            |
+| 09:40 - 10:00 	|         |                                 |                                |
 | 10:00 - 10:20 	| 2º DAM 	| Villena Gil, Juan David        	| Viewnext / ThisFunctional(PRT) |
 | 10:20 - 10:40 	| 2º DAM 	| Vargas Galán, Jesús            	| Viewnext 	                     |
 | 10:40 - 11:00 	| 2º DAM 	| Amo Olsson, Christian Raúl     	| Viewnext 	                     |
@@ -112,7 +112,7 @@ PROVISIONAL
 | 10:40 - 11:00 	| 2º DAM 	| García Fernández, Guillermo           	| Solbyte   	                   |
 | 11:30 - 11:50 	| 2º DAW 	| Reina Benítez, Fco. Reina              	| Viewnext  	                   |
 | 11:50 - 12:10 	| 2º DAM 	| Caralt Caralt, Alejandro               	| Viewnext / ThisFunctional(PRT) |
-| 12:10 - 12:30 	| --     	| --                                    	| --        	                   |
+| 12:10 - 12:30 	| 2º DAM 	| Matabuena Berdugo, Rocío              	| CGI                            |
 | 12:30 - 12:50 	| --     	| --                                    	| --        	                   |
 | 12:50 - 13:10 	| --     	| --                                    	| --        	                   |
 
