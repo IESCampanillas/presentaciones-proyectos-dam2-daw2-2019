@@ -48,6 +48,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Ruiz López, Alejandro](https://github.com/AleRui) - Proyecto: [Patrociname](https://github.com/AleRui/Patrociname) - Demo: [https://patrociname.alerui.com/](https://patrociname.alerui.com/)
 * [Sánchez Ramírez, Adrián - Lista de Anime](https://github.com/adriansanchezramirez/Final-Project)
 * [Villalba Sánchez, Adrián](https://github.com/AdrianVillalbaSanchez) - Proyecto: [Clover](https://github.com/AdrianVillalbaSanchez/proyecto-final) - Demo: [https://safe-tor-81131.herokuapp.com/](https://safe-tor-81131.herokuapp.com/) - [Presentación](https://github.com/AdrianVillalbaSanchez/presentacion-proyecto-final)
+* [Zambrana Ruiz, Germán] - [SkySound](https://github.com/GermanZR98/FinalProject)
 
 PROVISIONAL
 
