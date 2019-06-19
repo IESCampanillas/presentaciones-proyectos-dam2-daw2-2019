@@ -18,6 +18,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Espejo García, Ignacio - OFFSIDE](https://github.com/NachoEspejo/OFFSIDE-PF)
 * [Fernández García, Jose Antonio](https://github.com/joseanfernandez) - [Jarpa](https://github.com/joseanfernandez/Jarpa)
 * [Fernández Nadales, Andrés - Tourism Cities](https://github.com/andresfernandeznad/TourismCitiesAndroid).
+* [García Fernández, Guillermo - Avispro](https://github.com/guillermogarcia/avispro-presentacion).
 * [García Ruiz, Cintia - Mi Cuisine](https://github.com/cyntigr/Mi-Cuisine).
 * [Matabuena Berdugo, Rocío - Collecard](https://github.com/rociomatabuenaberdugo/CollecardApps).
 * [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
