@@ -42,7 +42,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Martín Castro, Jesús](https://github.com/Jesusmc82/MisMatronasPHP) / [Presentación]
 * [Meléndez Bravo, Esther - All Games](https://github.com/esthermelendez/PROYECTO_FINAL_ALLGAMES)
 * [Miranda Stavenuiter, Iván - Kontollarte app](https://github.com/ivanmirandastavenuiter/kontollarte-app-laravel-production)
-* [Moreno Montiel, Raúl - Calendario](https://github.com/RaaulMM/ProtectoFinal) [DEMO](http://calendarrmm.epizy.com) [Presentación](https://prezi.com/view/kFjz9PvYH6cYdMzBUg4m/)
+* [Moreno Montiel, Raúl - Calendario](https://github.com/RaaulMM/ProtectoFinal) Proyecto: [DEMO](http://calendarrmm.epizy.com) Presentación: [Prezi](https://prezi.com/view/kFjz9PvYH6cYdMzBUg4m/)
 * [Murcia España, Sara - Bright Side](https://github.com/SaraMurcia/Bright-Side)
 * [Parejo Ramos, Beatriz - Kenko Nutricion](https://github.com/BeatrizPR/KenkoNutricion)
 * [Pinto Cebrián, Pablo Francisco](https://github.com/pablopinto) - Proyecto: [Beer4Life](https://github.com/pablopinto/Beer4Life) - Demo: [https://beer4life.herokuapp.com/](https://beer4life.herokuapp.com/) - [Presentación](https://github.com/pablopinto/Beer4Life/blob/master/Beer4Life.pdf)
