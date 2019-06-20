@@ -42,6 +42,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Martín Castro, Jesús](https://github.com/Jesusmc82/MisMatronasPHP) / [Presentación]
 * [Meléndez Bravo, Esther - All Games](https://github.com/esthermelendez/PROYECTO_FINAL_ALLGAMES)
 * [Miranda Stavenuiter, Iván - Kontollarte app](https://github.com/ivanmirandastavenuiter/kontollarte-app-laravel-production)
+* [Moreno de Vega Haro, Carmen - Pensamiento construido
 * [Moreno Montiel, Raúl - Calendario](https://github.com/RaaulMM/ProtectoFinal) Proyecto: [DEMO](http://calendarrmm.epizy.com) Presentación: [Prezi](https://prezi.com/view/kFjz9PvYH6cYdMzBUg4m/)
 * [Murcia España, Sara - Bright Side](https://github.com/SaraMurcia/Bright-Side)
 * [Parejo Ramos, Beatriz - Kenko Nutricion](https://github.com/BeatrizPR/KenkoNutricion)
