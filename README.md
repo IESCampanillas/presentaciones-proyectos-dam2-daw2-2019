@@ -20,7 +20,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * [Fernández Nadales, Andrés - Tourism Cities](https://github.com/andresfernandeznad/TourismCitiesAndroid).
 * [García Fernández, Guillermo - Avispro](https://github.com/guillermogarcia/avispro-presentacion).
 * [García Ruiz, Cintia - Mi Cuisine](https://github.com/cyntigr/Mi-Cuisine).
-* [Matabuena Berdugo, Rocío - HappyHome](https://github.com/rociomatabuenaberdugo/HH-Android-Studio).
+* [Matabuena Berdugo, Rocío - HappyHome](https://github.com/rociomatabuenaberdugo/HappyHome).
 * [Rebollo Benítez, Salvador - MyGalaxyCatalogue](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal).
 * [Ruiz Mostazo, José Antonio - Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final).
 * [Vargas Galán, Jesús - Gbook](https://github.com/jesusvargasgalan/Gbook-IOS).
